@@ -51,6 +51,8 @@ public class Base {
         return driver;
     }
 
+    // Screenshot utility
+
     public String getScreenShotPath(String testMethodName, WebDriver driver) throws IOException {
         TakesScreenshot ts = (TakesScreenshot) driver;
         File source = ts.getScreenshotAs(OutputType.FILE);
