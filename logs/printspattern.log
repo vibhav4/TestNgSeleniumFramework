@@ -1,0 +1,6 @@
+15:47:50.535 [TestNG-test=Test-2] vib INFO  resources.Base - Navigation bar successfully validated
+15:47:50.542 [TestNG-test=Test-2] vib ERROR resources.Base - I am error ***************8
+15:47:51.271 [TestNG-test=Test-1] vib INFO  resources.Base - Navigated to home page
+15:47:54.337 [TestNG-test=Test-1] vib INFO  resources.Base - Driver is initialized
+15:48:03.612 [TestNG-test=Test-1] vib INFO  resources.Base - Navigated to home page
+15:48:05.113 [TestNG-test=Test-1] vib INFO  resources.Base - username password added sucessfully

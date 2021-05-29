@@ -1,0 +1,3 @@
+15:48:06.924 [TestNG-test=Test-1] vib INFO  resources.Base - Driver is initialized
+15:48:17.404 [TestNG-test=Test-1] vib INFO  resources.Base - Navigated to home page
+15:48:18.806 [TestNG-test=Test-1] vib INFO  resources.Base - username password added sucessfully
